@@ -1,3 +1,3 @@
 # Introduction
 
-I include some interesting papers\(mostly about computer systems\) I've read and my summary/thoughts about the paper.
+I include some interesting papers I've read and my thoughts.
