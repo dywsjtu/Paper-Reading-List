@@ -1,9 +1,5 @@
 # Reading list
 
-[How to read a paper?](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
-
-### **Reading list by topic:**
-
 **Distributed System:**
 
 * Christopher Meiklejohn's "[Readings in distributed systems](http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html)"
