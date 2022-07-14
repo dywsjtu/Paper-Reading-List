@@ -25,8 +25,12 @@ I include some interesting papers I've read.
 
 [OSDI '18] Ray: A Distributed Framework for Emerging AI Applications
 
+[OSDI '22] Walle: An End-to-End, General-Purpose, and Large-Scale Production System for Device-Cloud Collaborative Machine Learning
+
 ## Distributed System & Parallelization
 [OSDI '22] Unity: Accelerating DNN Training Through Joint Optimization of Algebraic Transformations and Parallelization
+
+[OSDI '22] Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning
 
 ## Scheduling 
 [EuroSys '22] Out-Of-Order BackProp: An Effective Scheduling Technique for Deep Learning
@@ -36,3 +40,8 @@ I include some interesting papers I've read.
 [OSDI '20] PipeSwitch: Fast Pipelined Context Switching for Deep Learning Applications
 
 [MLSys '20] Salus: Fine-Grained GPU Sharing Primitives for Deep Learning Applications
+
+## MLC
+[OSDI '22] Roller: Fast and Efficient Tensor Compilation for Deep Learning
+
+[OSDI '18] TVM: An Automated End-to-End Optimizing Compiler for Deep Learning
